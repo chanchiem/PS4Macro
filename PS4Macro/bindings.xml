@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BindingsContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Mappings>
+    <MappingAction>
+      <Name>L Left</Name>
+      <Key>A</Key>
+      <Property>LX</Property>
+      <Value xsi:type="xsd:int">0</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>L Right</Name>
+      <Key>D</Key>
+      <Property>LX</Property>
+      <Value xsi:type="xsd:int">255</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>L Up</Name>
+      <Key>W</Key>
+      <Property>LY</Property>
+      <Value xsi:type="xsd:int">0</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>L Down</Name>
+      <Key>S</Key>
+      <Property>LY</Property>
+      <Value xsi:type="xsd:int">255</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>R Left</Name>
+      <Key>J</Key>
+      <Property>RX</Property>
+      <Value xsi:type="xsd:int">0</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>R Right</Name>
+      <Key>L</Key>
+      <Property>RX</Property>
+      <Value xsi:type="xsd:int">255</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>R Up</Name>
+      <Key>I</Key>
+      <Property>RY</Property>
+      <Value xsi:type="xsd:int">0</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>R Down</Name>
+      <Key>K</Key>
+      <Property>RY</Property>
+      <Value xsi:type="xsd:int">255</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>R1</Name>
+      <Key>E</Key>
+      <Property>R1</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>L1</Name>
+      <Key>Q</Key>
+      <Property>L1</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>L2</Name>
+      <Key>U</Key>
+      <Property>L2</Property>
+      <Value xsi:type="xsd:int">255</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>R2</Name>
+      <Key>O</Key>
+      <Property>R2</Property>
+      <Value xsi:type="xsd:int">255</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>Triangle</Name>
+      <Key>C</Key>
+      <Property>Triangle</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>Circle</Name>
+      <Key>Escape</Key>
+      <Property>Circle</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>Cross</Name>
+      <Key>Return</Key>
+      <Property>Cross</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>Square</Name>
+      <Key>V</Key>
+      <Property>Square</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>DPad Up</Name>
+      <Key>Up</Key>
+      <Property>DPad_Up</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>DPad Down</Name>
+      <Key>Down</Key>
+      <Property>DPad_Down</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>DPad Left</Name>
+      <Key>Left</Key>
+      <Property>DPad_Left</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>DPad Right</Name>
+      <Key>Right</Key>
+      <Property>DPad_Right</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>L3</Name>
+      <Key>N</Key>
+      <Property>L3</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>R3</Name>
+      <Key>M</Key>
+      <Property>R3</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>Share</Name>
+      <Key>LControlKey</Key>
+      <Property>Share</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>Options</Name>
+      <Key>Z</Key>
+      <Property>Options</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>PS</Name>
+      <Key>LShiftKey</Key>
+      <Property>PS</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+    <MappingAction>
+      <Name>Touch Button</Name>
+      <Key>T</Key>
+      <Property>TouchButton</Property>
+      <Value xsi:type="xsd:boolean">true</Value>
+    </MappingAction>
+  </Mappings>
+  <Macros />
+  <EnableMouseInput>true</EnableMouseInput>
+  <MouseSensitivity>3</MouseSensitivity>
+  <MouseDecayRate>1.01</MouseDecayRate>
+  <MouseDecayThreshold>0</MouseDecayThreshold>
+  <MouseAnalogDeadzone>0</MouseAnalogDeadzone>
+  <MouseMakeupSpeed>500</MouseMakeupSpeed>
+  <MouseMovementAnalog>Right</MouseMovementAnalog>
+  <MouseInvertXAxis>false</MouseInvertXAxis>
+  <MouseInvertYAxis>false</MouseInvertYAxis>
+  <LeftMouseMapping>11</LeftMouseMapping>
+  <RightMouseMapping>10</RightMouseMapping>
+  <MiddleMouseMapping>0</MiddleMouseMapping>
+</BindingsContainer>

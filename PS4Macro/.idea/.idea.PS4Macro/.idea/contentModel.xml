@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Chiem Saeteurn\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Chiem Saeteurn\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_PS4Macro.1732299824.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Chiem Saeteurn\Desktop\PS4Macro-mouse-test3.5\PS4Macro" t="IncludeRecursive">
+      <e p="app.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Classes" t="Include">
+        <e p="ConsoleHelper.cs" t="Include" />
+        <e p="GlobalHooks" t="Include">
+          <e p="GlobalKeyboardHook.cs" t="Include" />
+          <e p="GlobalMouseHook.cs" t="Include" />
+        </e>
+        <e p="MacroPlayer.cs" t="Include" />
+        <e p="MacroUtility.cs" t="Include" />
+        <e p="Remapping" t="Include">
+          <e p="BaseAction.cs" t="Include" />
+          <e p="BindingsContainer.cs" t="Include" />
+          <e p="MacroAction.cs" t="Include" />
+          <e p="MappingAction.cs" t="Include" />
+          <e p="MouseStroke.cs" t="Include" />
+          <e p="Remapper.cs" t="Include" />
+          <e p="RemapperUtility.cs" t="Include" />
+        </e>
+        <e p="SaveLoadHelper.cs" t="Include" />
+        <e p="ScriptHost.cs" t="Include" />
+        <e p="ScriptHostUtility.cs" t="Include" />
+        <e p="Settings.cs" t="Include" />
+        <e p="StatusChecker.cs" t="Include" />
+      </e>
+      <e p="Controls" t="Include">
+        <e p="AxisDisplay.cs" t="Include" />
+      </e>
+      <e p="EasyHook32.dll" t="Include" />
+      <e p="EasyHook32Svc.exe" t="Include" />
+      <e p="EasyHook64.dll" t="Include" />
+      <e p="EasyHook64Svc.exe" t="Include" />
+      <e p="EasyLoad32.dll" t="Include" />
+      <e p="EasyLoad64.dll" t="Include" />
+      <e p="Forms" t="Include">
+        <e p="AboutForm.cs" t="Include" />
+        <e p="AboutForm.Designer.cs" t="Include" />
+        <e p="AboutForm.resx" t="Include" />
+        <e p="ImageHashForm.cs" t="Include" />
+        <e p="ImageHashForm.Designer.cs" t="Include" />
+        <e p="ImageHashForm.resx" t="Include" />
+        <e p="MacroCompressorForm.cs" t="Include" />
+        <e p="MacroCompressorForm.Designer.cs" t="Include" />
+        <e p="MacroCompressorForm.resx" t="Include" />
+        <e p="MainForm.cs" t="Include" />
+        <e p="MainForm.Designer.cs" t="Include" />
+        <e p="MainForm.resx" t="Include" />
+        <e p="RemapperForm.cs" t="Include" />
+        <e p="RemapperForm.Designer.cs" t="Include" />
+        <e p="RemapperForm.resx" t="Include" />
+        <e p="ResizeRemotePlayForm.cs" t="Include" />
+        <e p="ResizeRemotePlayForm.Designer.cs" t="Include" />
+        <e p="ResizeRemotePlayForm.resx" t="Include" />
+        <e p="StatusCheckerForm.cs" t="Include" />
+        <e p="StatusCheckerForm.Designer.cs" t="Include" />
+        <e p="StatusCheckerForm.resx" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="PS4Macro.csproj" t="IncludeRecursive" />
+      <e p="Resources" t="Include">
+        <e p="icon.ico" t="Include" />
+        <e p="icon_img.png" t="Include" />
+        <e p="icon_joystick.png" t="Include" />
+        <e p="icon_repeat.png" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
